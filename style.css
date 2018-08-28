@@ -1,0 +1,105 @@
+body {
+    font-family: 'Comic Sans MS';
+    background-color: ivory
+}
+
+.center {
+    text-align: center;
+}
+
+.content {
+    width: 98%;
+    float: left;
+    padding: 5px 10px;
+}
+
+.div-generic {
+    width: 99%;
+    float: left;
+    height: 250px;
+}
+.title {
+    width: 99%;
+    text-align: center;
+    background-color: gainsboro;
+    float: left;
+    font-size: 20px;
+    border: 1px gainsboro solid;
+    border-radius: 14px;
+}
+
+.is-div-left {
+    float: left;
+    width: 30%;
+    height: 250px;
+    text-align: center;
+}
+
+.is-dev-right {
+    float: right;
+    width: 70%;
+    height: 250px;
+}
+
+.sub-div-generic {
+    width: 95%;
+    height: auto;
+    float: left;
+    padding: 5px;
+    margin: 10px 0;
+    height: 235px;
+    border-bottom: 1px solid;
+}
+
+.sub-div-generic span {
+    text-align: center;
+}
+
+#img-profile {
+    margin: 13% 0;
+}
+
+.title-span-generic {
+    padding: 5px;
+    border: 1px solid  gainsboro;
+    background-color: gainsboro;
+    border-radius: 15px;
+}
+
+.scroll {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.div-experience {
+    text-align: center;
+    width: 98%;
+    padding: 20px 0;
+    border-bottom: 1px solid;
+}
+
+.skills {
+    float: left;
+    width: 48%;
+    margin-top: 10px;
+}
+
+.main-data {
+    height: 214px;
+    width: 75%;
+    float: left;
+}
+
+.main-data img {
+    vertical-align: baseline;
+}
+
+.resume {
+    height: 214px;
+    width: 25%;
+    float: left;
+}
+
+.resume img {
+    margin: 3px 0 
+}
